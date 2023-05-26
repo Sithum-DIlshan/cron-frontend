@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.appButton{
+  width: 90px;
+  height: 50px;
+  background-color: green;
+  color: whitesmoke;
+  margin: 34px;
+  border-width: 0;
+  cursor: pointer;
+  border-radius: 10px;
+}
